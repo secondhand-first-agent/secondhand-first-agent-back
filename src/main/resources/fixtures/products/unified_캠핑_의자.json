@@ -1,0 +1,1275 @@
+{
+  "query": "캠핑 의자",
+  "generatedAt": "2026-08-20T05:29:23.124681+00:00",
+  "sourceCounts": {
+    "BUNJANG": 6,
+    "JOONGNA": 6,
+    "NAVER_FLEAMARKET": 6,
+    "ELEVENST": 6
+  },
+  "count": 24,
+  "items": [
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "168451744",
+      "url": "https://m.bunjang.co.kr/products/168451744",
+      "title": "간편한 캠핑 의자 낚시의자 휴대용 접이식 자바라의자 스툴 경량 어린이",
+      "price": 9500,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "캠핑 낚시 피크닉 또는 실내에서 받침대로도 활용가능합니다.\n긴 줄을서서 대기할때도 딱 좋습니다.\n\n초간단 1~2초 의자완성. 편안한 캠핑 즐기세요~\n\n소재 : PP 의자높이 : 6.5~45cm까지 조절\n12단계로 높낮이를 조절하며 뛰어난 내구성을 자랑합니다.(150kg)\n\n오전 주문시 당일배송됩니다.",
+      "images": [
+        "https://media.bunjang.co.kr/product/168451744_1_1768280679_w1200.jpg",
+        "https://media.bunjang.co.kr/product/168451744_2_1768280679_w1200.jpg",
+        "https://media.bunjang.co.kr/product/168451744_3_1768280679_w1200.jpg",
+        "https://media.bunjang.co.kr/product/168451744_4_1768280679_w1200.jpg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "freeShipping": true
+        }
+      },
+      "location": {
+        "name": "인천광역시 남동구 구월3동",
+        "full_address": "인천광역시 남동구 구월3동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "인천광역시 남동구 구월3동",
+            "full_address": "인천광역시 남동구 구월3동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:43.514883+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424921563",
+      "url": "https://m.bunjang.co.kr/products/424921563",
+      "title": "캠핑의자 세트 (미니 테이블포함)",
+      "price": 80000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "패턴이 예쁜 노마드 캠핑 의자예요\n접이식이라 보관 및 이동이 편리해요\n캠핑이나 야외 활동 시 유용하게 사용할 수 있어요\n\n캠핑의자 :3개 (첫번째 사진은 스몰사이즈 샘플 높이 약75센치.\n\n두번째 사진은 성인2개 + 스몰1개\n(성인용은 펼치지 않은 상태에서 길이만 약120 나오네요\n스몰은 펼치지 않은 상태에서 길이만\n약85나옵니다)\n\n세번째.네번째 사진 :미니테이블\n(가로 50  세로 30 높이 20)\n\n구매해서 2~3회 사용.(창고에 보관만)\n상태 최상급\n\n캠핑의자와 미니테이블 일괄입니다.\n승용차에도 들어가요.사이즈 참고바람",
+      "images": [
+        "https://media.bunjang.co.kr/product/424921563_1_1787200866_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424921563_2_1787200866_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424921563_3_1787200866_w1200.jpg"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "LIKE_NEW",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 10000,
+        "home_delivery_fee": 10000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 10000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 10000
+          }
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:43.514883+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424585660",
+      "url": "https://m.bunjang.co.kr/products/424585660",
+      "title": "헬리녹스 오베이 캠핑 의자",
+      "price": 200000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "헬리녹스 오베이 콜라보 캠핑 의자입니다. 수납이 용이하고 가벼워 캠핑이나 야외 활동에 적합합니다. 블랙 색상에 OBEY 로고가 포인트로 들어가 있어 멋스럽습니다. 구매 원하시면 바로 안전결제 해주시면 됩니다!\n피팅횟수 3회정도 됩니다",
+      "images": [
+        "https://media.bunjang.co.kr/product/424585660_1_1786954365_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424585660_2_1786954365_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "freeShipping": true
+        }
+      },
+      "location": {
+        "name": "경상남도 창원시 의창구 의창동",
+        "full_address": "경상남도 창원시 의창구 의창동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "경상남도 창원시 의창구 의창동",
+            "full_address": "경상남도 창원시 의창구 의창동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:43.514883+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "414366267",
+      "url": "https://m.bunjang.co.kr/products/414366267",
+      "title": "전주) 캠핑의자 2개 일괄판매. 2회사용",
+      "price": 30000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "브랜드 없는 제품입니다. 사각프레임 구조로 내하중이 100-110kg인 일반 경량체어보다 더 좋습니다. 코팅된 강철프레임이라서 스크레치에 강하고 바람에 잘 넘어가지 않고 튼튼합니다. 보관상 주름과 생활감 있지만 구멍이나 찢어짐 없고 기능문제 없습니다. 2회 사용후 계속 보관중이라 전체적으로 깨끗한 컨디션입니다. 전주에서 직거래 가능하며 택배도 가능합니다.",
+      "images": [
+        "https://media.bunjang.co.kr/product/414366267_1_1787125509_w1200.jpg",
+        "https://media.bunjang.co.kr/product/414366267_2_1787125509_w1200.jpg",
+        "https://media.bunjang.co.kr/product/414366267_3_1787125509_w1200.jpg",
+        "https://media.bunjang.co.kr/product/414366267_4_1787125509_w1200.jpg",
+        "https://media.bunjang.co.kr/product/414366267_5_1787125509_w1200.jpg",
+        "https://media.bunjang.co.kr/product/414366267_6_1787125509_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 5000,
+        "home_delivery_fee": 5000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 5000
+          }
+        }
+      },
+      "location": {
+        "name": "전북특별자치도 전주시 완산구 효자1동",
+        "full_address": "전북특별자치도 전주시 완산구 효자1동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "전북특별자치도 전주시 완산구 효자1동",
+            "full_address": "전북특별자치도 전주시 완산구 효자1동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:43.514883+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424741369",
+      "url": "https://m.bunjang.co.kr/products/424741369",
+      "title": "베이프 캠핑의자 (마이크로체어)",
+      "price": 150000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "베이프 마이크로 체어 캠피의자 입니다.\n몇번 사용 못하고 판매합니다!",
+      "images": [
+        "https://media.bunjang.co.kr/product/424741369_1_1787056418_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424741369_2_1787056418_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424741369_3_1787056418_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424741369_4_1787056418_w1200.jpg"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "HEAVILY_USED",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 5000,
+        "home_delivery_fee": 5000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 5000
+          }
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:43.514883+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "205436026",
+      "url": "https://m.bunjang.co.kr/products/205436026",
+      "title": "[새제품] 코카콜라 블랙야크 보냉 캠핑의자",
+      "price": 36000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "GS반값택배 +2,000\n택배 +4,000",
+      "images": [
+        "https://media.bunjang.co.kr/product/205436026_1_1772268960_w1200.jpg",
+        "https://media.bunjang.co.kr/product/205436026_2_1772268960_w1200.jpg",
+        "https://media.bunjang.co.kr/product/205436026_3_1772268960_w1200.jpg",
+        "https://media.bunjang.co.kr/product/205436026_4_1772268960_w1200.jpg",
+        "https://media.bunjang.co.kr/product/205436026_5_1772268960_w1200.jpg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "NEW",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "GS25",
+            "requires_pickup_point": true,
+            "fee": 2000,
+            "remote_fee": null,
+            "raw_code": "GS_HALF_PRICE"
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "CU",
+            "requires_pickup_point": true,
+            "fee": 2000,
+            "remote_fee": null,
+            "raw_code": "CU_THRIFTY"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 4000
+          },
+          "GS_HALF_PRICE": {
+            "fee": 2000
+          },
+          "CU_THRIFTY": {
+            "fee": 2000
+          }
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:43.514883+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231700710",
+      "url": "https://web.joongna.com/product/231700710",
+      "title": "캠핑용 카고 캠핑 의자",
+      "price": 25000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "카고컨테이너 브랜드의 와이드 바베큐 의자 2ea 판매합니다  2ea가 1개의 세트 제품이며 전용가방까지 있는 카키 색상입니다  10회 정도 사용했으며 앉는 용도보다는 수납함들 받침용도로 사용하여   하단 부분 파쇄석과 닿는 부분만 사용감 있고 상단은 깨끗한 상태입니다  구매 전 자세한 사진이나 문의사항은 채팅 주세요",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/20/1787198528949Xnk_OXvmv.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/17871985289476Fn_ZAlOj.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "NOT_AVAILABLE",
+        "payer": null,
+        "min_fee": null,
+        "home_delivery_fee": null,
+        "options": [],
+        "raw": null
+      },
+      "location": {
+        "name": "역촌동",
+        "full_address": "서울특별시 은평구 역촌동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "역촌동",
+            "full_address": "서울특별시 은평구 역촌동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:50.424736+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "230630207",
+      "url": "https://web.joongna.com/product/230630207",
+      "title": "전주) 캠핑의자 2개 일괄판매. 2회사용",
+      "price": 30000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "브랜드 없는 제품입니다. 사각프레임 구조로 내하중이 100-110kg인 일반 경량체어보다 더 좋습니다. 코팅된 강철프레임이라서 스크레치에 강하고 바람에 잘 넘어가지 않고 튼튼합니다. 보관상 주름과 생활감 있지만 구멍이나 찢어짐 없고 기능문제 없습니다. 2회 사용후 계속 보관중이라 전체적으로 깨끗한 컨디션입니다. 전주에서 직거래 가능하며 택배도 가능합니다.",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/07/15/1784041641565Ukd_GXBLC.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/15/1784041641716UzD_gdkqw.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/15/1784041641791oFp_NfdkJ.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/15/1784041641908S8F_yAQ7r.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/15/1784041642029ygq_CCxIv.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 4000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": 0
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 4000
+          }
+        ]
+      },
+      "location": {
+        "name": "동서학동",
+        "full_address": "전라북도 전주시 완산구 동서학동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "동서학동",
+            "full_address": "전라북도 전주시 완산구 동서학동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:50.424736+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231651484",
+      "url": "https://web.joongna.com/product/231651484",
+      "title": "새제품 22만원 원터치 텐트 캠핑테이블 캠핑의자 캠핑용품 싸게 팔아요!!",
+      "price": 100000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "캠핑도 안가는데 캠핑용품 세트를 선물로 받았어요 그냥 어짜피 안쓸꺼같아서 싸게 내놓아요~ 원터치텐트 +캠핑테이블+캠핑의자(2개)같이 드려요!! 시중에 22만원에 파는데 싸게 내놓아요~ 텐트 200×150×120cm 롤테이블 53×51×50cm 의자 39×39×65cm (가로×세로×높이)",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/18/1787046895433yay_XKa75.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/18/1787046895491fPs_TFUKT.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "0",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "parcelFee": 1
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:50.424736+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231117747",
+      "url": "https://web.joongna.com/product/231117747",
+      "title": "토리빅 페스티벌 그라운드체어(좌식캠핑의자) 아이보리 여러개가능",
+      "price": 6000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "조립식 좌식 캠핑의자입니다. 그라운드체어라고 부르네요.  사이즈는 사진 참고해주시고 색상은 아이보리만. 여러개가능하며 수량 관계없이 택배비별도 3500원(부피관계로) 편의점 반값택배는 이용하지않으니 문의주시지마세요   ☆토리빅이라고 레터링 된부분은 떨어지려고하네요.  6번째사진 이부분은 꼭 확인하시구요☆  상품은 새상품입니다. 실제로앉아보니 짱짱하고 편하네요.",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/07/30/1785403523738qrq_aLje0.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/17854035238816Va_tFJ43.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/17854035239326jF_ffUxL.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/1785403523988M3f_jXLnU.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/1785403524052TyN_4UXLt.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/17854035241086rl_GwiHD.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/1785403524167r3Q_rqFZa.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/1785403524233BqI_4L23k.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/30/1785403524314h2z_nURDq.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "0",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3500,
+        "home_delivery_fee": 3500,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 3500,
+            "remote_fee": null,
+            "raw_code": 0
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 3500
+          }
+        ]
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:50.424736+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231410071",
+      "url": "https://web.joongna.com/product/231410071",
+      "title": "캠핑 장비 의자, 매트, 테이블, 여행 캐리어 판매합니다",
+      "price": 30000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "캠핑 장비 의자, 매트, 테이블, 여행 캐리어 판매합니다  코베아 캠핑의자 2개 5만원 1개 안쪽 안감이 찢어져 버팔로 커버 같이 드림  접이식 수납함 55cm 40cm 30cm  발포매트 200cm 140cm 2개 일괄 2만원  캠핑의자 4개 6만원  인테리어 아트 액자형 접이식 테이블 3만원 가로60cm 세로80cm 높이30cm  왼쪽 20인치 캐리어 2만원 가로40cm 세로50cm 폭23cm 오른쪽 26인치 캐리어 2만원 가로40cm 세로62cm 폭27cm  원목 수납함 2개 일괄 1만원 왼쪽 가로38cm 세로38cm 높이21cm 오른쪽 가로38cm 세로28cm 높이24cm  거래장소는 부산입니다",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/14/1786715505681yaO_kT9NT.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/14/1786715505797lWI_F0vhL.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/10/1786322319330UC4_XvA0F.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/10/1786322319455mri_lrtcY.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/10/1786322319569p2a_A8lxi.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/10/17863223196759X5_bNDaK.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/10/1786322319806C82_CBiUF.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 10000,
+        "home_delivery_fee": 10000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 10000,
+            "remote_fee": null,
+            "raw_code": 0
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 10000
+          }
+        ]
+      },
+      "location": {
+        "name": "온천제2동",
+        "full_address": "부산광역시 동래구 온천제2동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "온천제2동",
+            "full_address": "부산광역시 동래구 온천제2동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:50.424736+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231685541",
+      "url": "https://web.joongna.com/product/231685541",
+      "title": "새제품 22만원 원터치 텐트 캠핑테이블 캠핑의자 캠핑용품 싸게 팔아요!!",
+      "price": 100000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "캠핑도 안가는데 캠핑용품 세트를 선물로 받았어요 그냥 어짜피 안쓸꺼같아서 싸게 내놓아요~ 원터치텐트 +캠핑테이블+캠핑의자(2개)같이 드려요!! 시중에 22만원에 파는데 싸게 내놓아요~ 텐트 200×150×120cm 롤테이블 53×51×50cm 의자 39×39×65cm (가로×세로×높이)",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/19/17871423364793MO_zrkd4.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/19/1787142336536pXP_aNeK1.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "0",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "parcelFee": 1
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:28:50.424736+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M0CXSVQ8MVZXM5FH0A6C0AD2",
+      "url": "https://fleamarket.naver.com/market-products/01M0CXSVQ8MVZXM5FH0A6C0AD2",
+      "title": "헬리녹스 선셋체어 캠핑의자",
+      "price": 260000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "헬리녹스 선셋체어 블랙/블루 색상 캠핑 의자 2개 판매해요(re아닙니다.)\n앉으면 편하고 가볍고 휴대하기 좋습니다.\n순정은 아니지만 볼핏, 워머도 같이드릴게요~~",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMTg1/MDAxNzg3MTQwMTc0MDM3.VPtdkdNlyzGwnR0glffVgrxe5EWuYmf_1kV-wKfcmDYg.c38poRnQBTavobctgfStakKps-GmEVrONsPK6Ib4Zmsg.JPEG/IMG_0752.jpeg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfODAg/MDAxNzg3MTQwMTc1NjU3.4ZGxAAhUp4ODgsZ1g0gUE_iK52tfweOibnz1cbyPZfsg.pgmEHuDtKS92yPZByChY0iiYfm3c9I_7cMOp0UHLVxkg.JPEG/IMG_0753.jpeg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMTI3/MDAxNzg3MTQwMTc2NjEx.3HsdWQrrGcp2jVX9uQlM4K0It8cbhApXs_-q_ChP4qAg.AEWmY-59IRr2XAiX8dQLevebIw4e59AGEHSxE2tG7-0g.JPEG/IMG_0754.jpeg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "퇴계동",
+        "full_address": "강원특별자치도 춘천시 퇴계동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "퇴계동",
+            "full_address": "강원특별자치도 춘천시 퇴계동",
+            "code": "01110123"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:09.046925+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M0CMHSHHMN2Y652Q5N9Z44M2",
+      "url": "https://fleamarket.naver.com/market-products/01M0CMHSHHMN2Y652Q5N9Z44M2",
+      "title": "저가 캠핑의자 4개",
+      "price": 50000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "치명적인 오염은 없으나 \n약간의 오염 사용감 있습니다\n기능상 전혀 문제없습니다\n4개 일괄 5만원",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjUy/MDAxNzg3MTMwMzMyMzIw.8PKl0XYEsEqKkdBirdn0w4ER8GzVFGRH66AHe-NX0ZYg.OLrNvLat0f0i7veKNxPG9zLIiRmb_krpFFBE-3Pdeh4g.JPEG/1000030549.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjE3/MDAxNzg3MTMwMzM2ODQ2.UxCHu0bjhm8Hc2K9l0PZCO4OO2R55J1jbIt3A_I9p0Mg.jatO16hS9mbWLZXeyNtaY57wu9FoAYBbCnpyrRMvcQkg.JPEG/1000030550.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjg1/MDAxNzg3MTMwMzQxMTYz.4xFo95pFAAQkap68D79tybhAYRdO1q5Tf-oXYXT7620g.N3kz7Pyag9S8Wyn8-ExY5MysTASxUz71Oswj13aUMhsg.JPEG/1000030551.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfODEg/MDAxNzg3MTMwMzQ1NDk1.3CVYbqGIGTOzo3GF3yeH7q__UF-gs7BAsYlcvf2gG4wg.37K9OtK66orrkjFCNfqxiKRWAZo5x-QxsxshU_U0iTEg.JPEG/1000030552.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "청라동",
+        "full_address": "인천광역시 서해구 청라동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "청라동",
+            "full_address": "인천광역시 서해구 청라동",
+            "code": "11275111"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:09.046925+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M0AB1FGYG33G2VS81H7BDSAF",
+      "url": "https://fleamarket.naver.com/market-products/01M0AB1FGYG33G2VS81H7BDSAF",
+      "title": "캠핑의자 (두랄루민) 4개",
+      "price": 60000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "1.재질은 두랄루민임(총 4개임)\n2.의자가 바닥에 접촉한 부분만 사용감 있음\n3.스노우라인 바베큐 체어임",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMjky/MDAxNzg3MDUzMjY3Nzc1.9NdNH7uAuxGGjvKBwzgBuyi9yMC4UcwLKo6Gt3uIk-sg.SqwFY8VnevlCC0qdxeHQhKv9CGAM56tjhDP18tVUgE8g.JPEG/1000065818.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTA1/MDAxNzg3MDUzMjcwMDk3.ZYn4_yT6hv12y8ZTy7pN_L2pfJasrX4FuuAQA6gLvJ4g.JBI8e7jNmPwVxmgCL2e1FQfcPQWnvnDkJl5cW-H2__og.JPEG/1000065819.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTI2/MDAxNzg3MDUzMjcyMTYx.Pk6MzSWGC4yYj4OvPsVCXQJ04QiybsoqEXMPdNOKHIQg.gw9yS-fGHxEXBx4VqffEXosuGwFIdTflN6MHB7xO5icg.JPEG/1000065820.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "NOT_AVAILABLE",
+        "payer": null,
+        "min_fee": null,
+        "home_delivery_fee": null,
+        "options": [],
+        "raw": null
+      },
+      "location": {
+        "name": "중계동",
+        "full_address": "서울특별시 노원구 중계동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "중계동",
+            "full_address": "서울특별시 노원구 중계동",
+            "code": "09350106"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:09.046925+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M09M5GRE5ET5DN0MBSQPGZ49",
+      "url": "https://fleamarket.naver.com/market-products/01M09M5GRE5ET5DN0MBSQPGZ49",
+      "title": "헬리녹스 택티컬 체어투 캠핑 의자",
+      "price": 320000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "헬리녹스 택티컬 체어투 멀티캠 2EA\n\n- 스킨 불빵&오염 없음\n\n- 폴대 이상없음 (사제 볼핏 장착)\n\n- 상태 최상 (사용횟수 10회 마만)\n\n- 추가로 사진 원하면 보내드림!!",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMjEz/MDAxNzg3MDI5MjgxMDQ3.2bH2KhgRrPr-bf4WE1hU1wg1fah3gDhYtKs2tTx2mYIg.5MF9XyMwhVPBch5vPrATKkg96pekTB-_MF9ekOBs_6Eg.JPEG/5C833BE9-12F1-4C25-913D-E8E7F8158A3C.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfOTEg/MDAxNzg3MDI5Mjc4ODA0.j4uYzHuJScVcBOBphI8-zsgz_ClXhG2vlEwABIeCPUUg.sF0dZES-bZlXV22vbu43mWneurD32y52AIJ5OfMIwAQg.JPEG/88166E0E-36EB-4927-BC80-CCE8027AF21B.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "운양동",
+        "full_address": "경기도 김포시 운양동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "운양동",
+            "full_address": "경기도 김포시 운양동",
+            "code": "02570103"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:09.046925+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M030SBP2TRTTFBTRPMRNRGR8",
+      "url": "https://fleamarket.naver.com/market-products/01M030SBP2TRTTFBTRPMRNRGR8",
+      "title": "커밋체어 월넛 캠핑의자",
+      "price": 230000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "커밋체어 월넛 버건디입니다. (중국버전)\n\n파커스에서 구매한 정품이며, 야외 1회 사용했습니다.\n\n직거래 또는 택배 가능합니다.",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTZfMjMx/MDAxNzg2ODA3ODIzNjkz.vXwhKK_z5NNW8COT_mSY9A4DihWKKpphCkaBw1BiHhEg.LAPCRaBWZlpygJKG11NOgHeozmX6KmMU5aw6PiY0qo0g.PNG/%EC%BB%A4%EB%B0%8B%EC%B2%B4%EC%96%B41.png",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTZfOTkg/MDAxNzg2ODA3ODIzOTYw.kbcXAhv3HzARzOBldLL-GgIVRA_i9LzoiGyu1GZMWtAg.LUc0di-AChqlnO8R5tYfTSUYhRkYoE0I7zENej1-mvsg.PNG/%EC%BB%A4%EB%B0%8B%EC%B2%B4%EC%96%B42.png",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTZfMjUy/MDAxNzg2ODA3ODI0Mjcw.qaCnfNJKibc_1x2-8EAlaYXd2W5NBijn22xmRKmvvI0g.my3Jy7AeWT0xwgxwxhKCOz7uYeGm5LObHwRW8s89xOgg.PNG/%EC%BB%A4%EB%B0%8B%EC%B2%B4%EC%96%B43.png"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 4000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": 5000,
+            "raw_code": "DIRECT_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "DIRECT_DELIVERY",
+            "deliveryFee": 4000,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "명지동",
+        "full_address": "부산광역시 강서구 명지동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "명지동",
+            "full_address": "부산광역시 강서구 명지동",
+            "code": "08440104"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:09.046925+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M01WQWVGWPQF4KP0KPBSDS0Z",
+      "url": "https://fleamarket.naver.com/market-products/01M01WQWVGWPQF4KP0KPBSDS0Z",
+      "title": "스노우피크 엔트리로우체어 쇼트 블랙 2P 세트 SET-093 캠핑 의자 피크닉 낚시",
+      "price": 330000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "판매합니다",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTVfMTM3/MDAxNzg2NzcwMDU5Njg4.8GUVjX_01xwd8ezmx5GOTSC1Ig3j6CCol6eNY_jvpbwg.8z-Bzq40q0zyIU9IwmDkAFwjaXBVmGlnDSteaANoYrYg.JPEG/IMG_2430.jpeg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "DIRECT_DELIVERY",
+            "deliveryFee": 0,
+            "remoteDeliveryFee": 4000,
+            "payerType": "SELLER"
+          }
+        ]
+      },
+      "location": {
+        "name": "풍산동",
+        "full_address": "경기도 하남시 풍산동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "풍산동",
+            "full_address": "경기도 하남시 풍산동",
+            "code": "02450110"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:09.046925+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9564892092",
+      "url": "https://www.11st.co.kr/products/9564892092",
+      "title": "[콩심팥심]캠핑체어 일인용 공기주입 휴대용 야외 소파 의자",
+      "price": 17790,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/9/2/0/9/2/BQZeo/9564892092_B.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": "무료"
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:23.047580+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9564948440",
+      "url": "https://www.11st.co.kr/products/9564948440",
+      "title": "하이디웍스 경량 폴딩스툴(소) 캠핑의자 경량의자 접이식의자 폴딩스툴",
+      "price": 11000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/9/4/8/4/4/0/ymgAF/9564948440_B.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": 10000,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "무료",
+          "extraCost": "제주지역 5,000원, 도서산간지역 10,000원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:23.047580+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9564891292",
+      "url": "https://www.11st.co.kr/products/9564891292",
+      "title": "의자 캠핑의자 등산 가방 용량 낚시의자 스포츠 10L",
+      "price": 26210,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/9/1/2/9/2/mmHry/9564891292_B.webp",
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/9/1/2/9/2/MxMdm/9564891292_A1.webp",
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/9/1/2/9/2/eHEyq/9564891292_A2.webp",
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/9/1/2/9/2/qluzR/9564891292_A3.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": 5000,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "무료",
+          "extraCost": "제주지역 3,000원, 도서산간지역 5,000원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:23.047580+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9564862546",
+      "url": "https://www.11st.co.kr/products/9564862546",
+      "title": "접이식 야외용 미니의자 접이식 캠핑의자",
+      "price": 7150,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/6/2/5/4/6/WTYON/9564862546_B.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": 10000,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "무료",
+          "extraCost": "제주지역 5,000원, 도서산간지역 10,000원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:23.047580+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9564874065",
+      "url": "https://www.11st.co.kr/products/9564874065",
+      "title": "휴대용 폴딩 캠핑 체어 장 의자 야영 비 백패킹 릴렉스 등산 [aC5426C",
+      "price": 25730,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/7/4/0/6/5/DIXZC/9564874065_B.webp",
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/7/4/0/6/5/DIXZC/9564874065_A1.webp",
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/7/4/0/6/5/DIXZC/9564874065_A2.webp",
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/7/4/0/6/5/DIXZC/9564874065_A3.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": 6500,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "무료",
+          "extraCost": "제주지역 3,500원, 도서산간지역 6,500원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:23.047580+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9564823324",
+      "url": "https://www.11st.co.kr/products/9564823324",
+      "title": "카즈미 캠핑 의자 등받이조절 낚시 접이식 의자 블랙",
+      "price": 151520,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/pd/v2/8/2/3/3/2/4/vDGkx/9564823324_B.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": 3000,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "무료",
+          "extraCost": "제주지역 3,000원, 도서산간지역 3,000원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T05:29:23.047580+00:00"
+    }
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "query": "에어팟 프로 3",
+  "generatedAt": "2026-08-20T17:11:20.176514+00:00",
+  "sourceCounts": {
+    "BUNJANG": 5,
+    "JOONGNA": 5,
+    "NAVER_FLEAMARKET": 5,
+    "ELEVENST": 2
+  },
+  "count": 17,
+  "items": [
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424892785",
+      "url": "https://m.bunjang.co.kr/products/424892785",
+      "title": "(택포3) 에어팟프로1 본체",
+      "price": 15100,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "오른쪽 유닛 분실로 판매합니다.\n왼쪽유닛 판매완료\n정상작동 됩니다.\n정품입니다",
+      "images": [
+        "https://media.bunjang.co.kr/product/424892785_1_1787200882_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 14900,
+        "home_delivery_fee": 14900,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 14900,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 14900
+          }
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:00.947312+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424986390",
+      "url": "https://m.bunjang.co.kr/products/424986390",
+      "title": "에어팟 프로3 풀박스 풀구성",
+      "price": 235000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "에어팟 프로3풀박스 입니다\n\n⭐️상태 좋습니다 지직거림없고 철가루 없습니다⭐️\n\n⭐️짝퉁일시 100%환불 해드립니다⭐️\n\n⭐️모든 기능 다 잘됩니다!⭐️\n\n기스 찍힘 끝이고 사진 보고싶으시면 연락주세요!\n유닛지직거림 나의찾기 모두다 정상으로 작동합니다!\n\n결제해주시면 엄청 이르거나 엄청 늦은 시간만 아니면 무조권 구매하시자마자 보내드리겠습니다\n\n안전결제 직거래로만 진행합니다\n문의없으시면 바로구매해주세요!",
+      "images": [
+        "https://media.bunjang.co.kr/product/424986390_1_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_2_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_3_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_4_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_5_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_6_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_7_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_8_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_9_1787236560_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424986390_10_1787236560_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2500,
+        "home_delivery_fee": 5000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "GS25",
+            "requires_pickup_point": true,
+            "fee": 2500,
+            "remote_fee": null,
+            "raw_code": "GS_HALF_PRICE"
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "CU",
+            "requires_pickup_point": true,
+            "fee": 2500,
+            "remote_fee": null,
+            "raw_code": "CU_THRIFTY"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 5000
+          },
+          "GS_HALF_PRICE": {
+            "fee": 2500
+          },
+          "CU_THRIFTY": {
+            "fee": 2500
+          }
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:00.947312+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "412139302",
+      "url": "https://m.bunjang.co.kr/products/412139302",
+      "title": "에어팟 프로 3 미사용/세제품",
+      "price": 250000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "애플 코리아 정품\n에어팟 프로 3 \n완전 미사용 제품\n단품",
+      "images": [
+        "https://media.bunjang.co.kr/product/412139302_1_1786066370_w1200.jpg",
+        "https://media.bunjang.co.kr/product/412139302_2_1786066370_w1200.jpg",
+        "https://media.bunjang.co.kr/product/412139302_3_1786066370_w1200.jpg",
+        "https://media.bunjang.co.kr/product/412139302_4_1786066370_w1200.jpg",
+        "https://media.bunjang.co.kr/product/412139302_5_1786066370_w1200.jpg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 4000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 4000
+          }
+        }
+      },
+      "location": {
+        "name": "대구광역시 동구 안심3.4동",
+        "full_address": "대구광역시 동구 안심3.4동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "대구광역시 동구 안심3.4동",
+            "full_address": "대구광역시 동구 안심3.4동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:00.947312+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "425002776",
+      "url": "https://m.bunjang.co.kr/products/425002776",
+      "title": "에어팟프로3 3세대 본체 팝니다",
+      "price": 75000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "에어팟 프로 3세대 본체 판매합니다. \n큰기스나 흠없고\n사진과 같이 충전 잘 되고 정상 작동합니다. \n잃어버리신 분이나 필요하신 분 구매해주세요. \n\n별도 문의 없으시면 바로 안전결제 부탁드려요!",
+      "images": [
+        "https://media.bunjang.co.kr/product/425002776_1_1787240682_w1200.jpg",
+        "https://media.bunjang.co.kr/product/425002776_2_1787240682_w1200.jpg",
+        "https://media.bunjang.co.kr/product/425002776_3_1787240682_w1200.jpg",
+        "https://media.bunjang.co.kr/product/425002776_4_1787240682_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "GS25",
+            "requires_pickup_point": true,
+            "fee": 2000,
+            "remote_fee": null,
+            "raw_code": "GS_HALF_PRICE"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 4000
+          },
+          "GS_HALF_PRICE": {
+            "fee": 2000
+          }
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:00.947312+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424884722",
+      "url": "https://m.bunjang.co.kr/products/424884722",
+      "title": "에어팟 프로3 풀박스 (SSS급)",
+      "price": 265000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "구성품은 본체, 박스, 설명서, 이어탭\n\n상품 정보\n• 모델: 에어팟프로3\n• 상태: 사용감 없는 SSS급\n\n상태는 하자 아예 없습니다!\n\n안전결제 가능합니다\n\n환불 불가능하니 신중히 고민하세요\n\n약간의 네고 가능",
+      "images": [
+        "https://media.bunjang.co.kr/product/424884722_1_1787153956_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424884722_2_1787153956_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424884722_3_1787153956_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424884722_4_1787153956_w1200.jpg"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "LIKE_NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 5000,
+        "home_delivery_fee": 5000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "GS25",
+            "requires_pickup_point": true,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": "GS_HALF_PRICE"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 5000
+          },
+          "GS_HALF_PRICE": {
+            "fee": 5000
+          }
+        }
+      },
+      "location": {
+        "name": "경상남도 창원시 성산구 가음정동",
+        "full_address": "경상남도 창원시 성산구 가음정동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "경상남도 창원시 성산구 가음정동",
+            "full_address": "경상남도 창원시 성산구 가음정동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:00.947312+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231718367",
+      "url": "https://web.joongna.com/product/231718367",
+      "title": "에어팟 프로3 (단순개봉)",
+      "price": 210000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "에어팟 프로 3 그냥 새상품 급이고 하자나 잔기스 찍힘 전혀 없어요! 선물 받은지 4일 밖에 안되어서  보증기간은 거의 1년정도 남았어요! 단순 개봉휴 음질만 체크한 제품입니다.",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/20/1787234432959QH3_zw5Gi.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787234433026Gou_1wSmQ.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "parcelFee": 1
+        }
+      },
+      "location": {
+        "name": "신용동",
+        "full_address": "광주광역시 북구 신용동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "신용동",
+            "full_address": "광주광역시 북구 신용동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:06.954152+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231719493",
+      "url": "https://web.joongna.com/product/231719493",
+      "title": "에어팟 프로3 풀박스 풀구성",
+      "price": 235000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "에어팟 프로3풀박스 입니다  ⭐️상태 좋습니다 지직거림없고 철가루 없습니다⭐️  ⭐️짝퉁일시 100%환불 해드립니다⭐️  ⭐️모든 기능 다 잘됩니다!⭐️  기스 찍힘 끝이고 사진 보고싶으시면 연락주세요! 유닛지직거림 나의찾기 모두다 정상으로 작동합니다!  결제해주시면 엄청 이르거나 엄청 늦은 시간만 아니면 무조권 구매하시자마자 보내드리겠습니다  안전결제 직거래로만 진행합니다 문의없으시면 바로구매해주세요!",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/20/1787237022673LI3_81bLQ.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237022784MuA_9H7tJ.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237022848S96_WWgXg.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237022909d3T_Fhkce.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237022975t3J_nqZvY.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237023037oaa_yAQDy.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237023098S17_Hrj6T.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/17872370231586fJ_ICOfI.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787237023219Ax5_uRi3h.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/17872370232799CN_DHUKp.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "parcelFee": 1
+        }
+      },
+      "location": {
+        "name": "금곡동",
+        "full_address": "경기도 수원시 권선구 금곡동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "금곡동",
+            "full_address": "경기도 수원시 권선구 금곡동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:06.954152+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231720495",
+      "url": "https://web.joongna.com/product/231720495",
+      "title": "sss급 단순개봉급 에어팟프로3",
+      "price": 270000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "실사용 일주일 체 안됩니다  깔끔하게 사용하는 걸 좋아해서 사자마자  철가루 방지 스티커 + 투명 케이스 사서 끼고 다녀서 미세한 기스도 거의 없습니다 풀박스 있습니다  약 만원정도인 케이스도 같이 드리겠습니다",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/21/1787239879839CsO_EylhH.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/21/17872398799126px_82X5X.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/21/1787239879986ibX_umJw9.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "0",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 4000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": 0
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 4000
+          }
+        ]
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:06.954152+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231377552",
+      "url": "https://web.joongna.com/product/231377552",
+      "title": "에어팟프로3 상태매우좋음 보증기한10.18",
+      "price": 220000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "에어팟프로3이구여 시험기간에 집에서만 잠깐씩 사용하여 상태 최상입니다 기능상 하자 전혀 없고 사용감도 안느껴집니다 직거래때 충분히 확인후 거래해주세요",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/08/1786199039070Ztl_OP0k9.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/08/1786199039175SLO_kGRxN.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/08/1786199039232ZBR_2Cyk2.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2700,
+        "home_delivery_fee": 2700,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 2700,
+            "remote_fee": null,
+            "raw_code": 0
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 2700
+          }
+        ]
+      },
+      "location": {
+        "name": "상계3.4동",
+        "full_address": "서울특별시 노원구 상계3.4동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "상계3.4동",
+            "full_address": "서울특별시 노원구 상계3.4동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:06.954152+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "230181218",
+      "url": "https://web.joongna.com/product/230181218",
+      "title": "미개봉 공홈 구매 애플코리아 정품 에어팟 프로 3세대 팜",
+      "price": 314000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "미개봉 공홈 구매 애플코리아 정품 에어팟 프로 3세대 팜  미개봉 씰 그대로인 제품입니다  네고없이 일괄 가격은 31만4천원(우체국 택배 포함)  구매는 공홈이며 공홈 제품은 구입과 동시에  보증기간 자동 산정되어 바로 확인 가능하십니다  미개봉 새제품인 관계로 개봉후 반품은  불가하오니 양해 바랍니다  네고문의는 답장 못 드려요 죄송합니다  우체국 택배로 보내드려요  요즘 가품이 판을 칩니다  안전하게 공홈 제품으로 구매하세요",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/07/01/1782835501141KTq_MFE41.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/01/17828355012653Fp_wwfC0.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/01/1782835501342HUw_vT9IT.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/07/01/1782835501423lEQ_Knfgy.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "0",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "parcelFee": 1
+        }
+      },
+      "location": {
+        "name": "노은2동",
+        "full_address": "대전광역시 유성구 노은2동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "노은2동",
+            "full_address": "대전광역시 유성구 노은2동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:06.954152+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M0FAKNAH90WZQ02ZDR9EVKE4",
+      "url": "https://fleamarket.naver.com/market-products/01M0FAKNAH90WZQ02ZDR9EVKE4",
+      "title": "Apple 에어팟 프로 3세대 (미개봉,새상품)",
+      "price": 290000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "새상품 미개봉 입니다\n제조년일 26년",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MjBfNTQg/MDAxNzg3MjIwNzMwMzkw.CPLtxTluIvaf5xsGXjmkr3PeDmEGZvcL9_49iNfRZd8g.jzSlkB_bjBVLrJJPoGRm_FP248QdPBnUZYQAUmzmK_og.JPEG/Screenshot_20260820_164721_Karrot.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MjBfNjYg/MDAxNzg3MjIwNzMwNDA3.zZiGZxYiiRU3XOGy_ORb7y4ChKXUqMIm2EXIbxEp0IAg.mWOGNx2fjJDCy6oxITex2gDOrA8orJjYC63MaWgLTBgg.JPEG/Screenshot_20260820_164738_Karrot.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MjBfMTk3/MDAxNzg3MjIwNzMwNDE2.MHw-prmCYahoPs3u2O5LlYVAx0y8VN51YJyQTmXRq_Qg.o7j9rtKSTSnvqUHXzw3v3b0Hhq4yjuPMAKv5vybme5sg.JPEG/Screenshot_20260820_164730_Karrot.jpg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "NEW",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:17.267201+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M0AJ53MD7HMTWK6J5HG62F9E",
+      "url": "https://fleamarket.naver.com/market-products/01M0AJ53MD7HMTWK6J5HG62F9E",
+      "title": "[A급/풀박스] 에어팟 프로3",
+      "price": 250000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "《에어팟은 사진으로 구분하기 힘든 정교한 가품이 매우 많습니다! 반드시 직거래나 안심결제로 구매하셔서 노이즈 캔슬링, 음질 등을 체크 후 구매 확정 하시는 걸 강력히 권장드립니다》 \n\n연말에 일렉트로마트에서 호기심으로 구매 후 거의 서랍에만 박아둔 물건입니다. 원래 사용하던 젠하이저 이어폰 음색이 더 마음에 들어 방출합니다. \n\n사용 횟수가 양손에 꼽을 정도이다보니, 상태는 사진에 보시다시피 전체적으로 깔끔합니다. 기능 및 배터리 상태 이상 없는 것 확인하였으며, 보증도 10월까지 남아있습니다. \n\n구성은 풀박스(박스 + 본체 + 이어팁 세트)입니다. 사진 여러 각도로 올려놓았으나 필요하신 경우 더 찍어 보내드릴 수 있으니 궁금하신 점 편하게 문의 주세요.\n\n수원 CU 영통하우스토리점 앞에서 직거래 가능하며, 택배 거래 시 배송비 추가됩니다. \n\n\n✅️ 직거래 희망하실 경우 챗 주시고, 안심결제 희망하실 경우 특별한 문의사항 없으시면 바로 결제해주시면 됩니다. \n\n🚫 마일리지 운운 하며 가짜 중고거래 사이트로 유도하는 사기 안 통합니다. 사기꾼 분들은 서로 시간 낭비 없도록 연락 자제 부탁드립니다.",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMjA5/MDAxNzg3MDYwOTM5OTE1.eKeObKL0Dg31sVYYyeTynn-UhOJ1S92icwEbhZosvWUg.emNOFD6oBXb2vRoUA6BBXn3Ip7g-0wtuuQZJ9oxCMpMg.JPEG/1000265289.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTUy/MDAxNzg3MDYwOTQwODY5.kYaR4vBx8Ab5ixzM0AuWd7JzDvDcAYnFEv351xfUv_Ag.AKJe4t-1yC4HvVQV794nBGIX0-gaExEQ8T98MftD_l4g.JPEG/1000265285.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMjk4/MDAxNzg3MDYwOTQxODIw.pSIwmU6wSDBJ3OrFN1qGvxySJJcIJvvXIvUYG8Gyq0Ug.4bRZiJWHVo5hUUAUpe9tta2T_MTs0c5xQShmoxM7hZgg.JPEG/1000265286.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTE3/MDAxNzg3MDYwOTQyODU0.TVpJbCTw7W6z_1aI57kjQoO2-_mIujqGRFJiMb50XL0g.zZBIB-R7EDwiDxGKNcsmflI9bWPECEEv1COkO_iJYxcg.JPEG/1000265287.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfNjMg/MDAxNzg3MDYwOTQzODA4.UFRrG2CP_dZF1qv4hVjr0H4ZQ2L1Ivn9xYuUpwzTfqUg.SWro4nlYVGYMQjflEpj51W4PIkZ8nVJBKPxEvwR6ehkg.JPEG/1000265293.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTI0/MDAxNzg3MDYwOTQ0NzMx.iSZ6wUHw3RgllCPUKAkktX7VkZPadBLUwMBuaQZvZMQg.AI3OcKpoaqh0WCRLxSTEXWp1lHCwG_GHOoBn4vmwk-Mg.JPEG/1000265295.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTg1/MDAxNzg3MDYwOTQ1NzI4.BM8rs-wJPhX96_1zT4dXQOHA7nVPiJOT7zG-3K9sDNkg.j0ijOdeLGUfvz__WCXGHoO1mYgs4wY29DRZhFxOBqKIg.JPEG/1000265297.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTYy/MDAxNzg3MDYwOTQ2OTM1.VstHfLN5oVP_j8_x3811IEzjYxQffNn8du4zNutpdgcg.H4WdEcZLqh8QVay7xsyZhxY3fuCUa7G6Y0H7JroDzb8g.JPEG/1000265299.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMjY0/MDAxNzg3MDYwOTQ4MTA4.Ciw6Z65KM8uste2TIQdoktqXeFOYYuMFKI4iAL-m6Oog.cAh7KxzKjAjG4XdpriszeRzVL3993i38Fz1lCSY0plcg.JPEG/1000265300.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTY4/MDAxNzg3MDYwOTQ5MDk0.F7kJH5CKvfMspst5xp260FjclE5uDHAgAStbDh3xMvwg.UdAwPrYdHlkxZOPfCbT3WpiKoDppbqVncHugUrBXjVUg.JPEG/1000265302.jpg"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "ALMOST_NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "영통동",
+        "full_address": "경기도 수원시 영통구 영통동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "영통동",
+            "full_address": "경기도 수원시 영통구 영통동",
+            "code": "02117105"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:17.267201+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M09TYDNX01T6A78HW607Y140",
+      "url": "https://fleamarket.naver.com/market-products/01M09TYDNX01T6A78HW607Y140",
+      "title": "Apple 에어팟 프로 3세대 MFHP4KH/A USB-C 노이즈캔슬링 화이트",
+      "price": 230000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "중고제품이며 정품입니다.\n케이스 끼고 다녀서 흠집없습니다\n직거래 가능",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MThfMTI1/MDAxNzg3MDM2NTM1MjM4.lcg_xWMspVgmsyRR9P3k_newPPFs9oIrdHo4n5fL0wcg.5NQB85emRX3FvFNRt3UK0FpWtC4zWVUt5KxEkHBQVeMg.JPEG/image.jpg"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "ALMOST_NEW",
+      "trade_method": [
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "NOT_AVAILABLE",
+        "payer": null,
+        "min_fee": null,
+        "home_delivery_fee": null,
+        "options": [],
+        "raw": null
+      },
+      "location": {
+        "name": "부평동",
+        "full_address": "인천광역시 부평구 부평동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "부평동",
+            "full_address": "인천광역시 부평구 부평동",
+            "code": "11237101"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:17.267201+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01KZZV1521Z20YB7B37THNF8N4",
+      "url": "https://fleamarket.naver.com/market-products/01KZZV1521Z20YB7B37THNF8N4",
+      "title": "미개봉) 에어팟프로3 팔아요",
+      "price": 280000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "에어팟프로3 미개봉 팝니다\n\n4월 제조입니다",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTRfMjg2/MDAxNzg2NzAxMTQ1Nzc0.fQxUSt4MjdWO8Iki0olnQbghXgyKXWMGaJlQLW5TV6Mg.ob-UiqETY842KBVCuCLbUTtfUHqXlVU_COO_eCWAd38g.JPEG/%EC%97%90%EC%96%B4%ED%8C%9F%ED%94%84%EB%A1%9C3.jpg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "황금동",
+        "full_address": "대구광역시 수성구 황금동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "황금동",
+            "full_address": "대구광역시 수성구 황금동",
+            "code": "06260107"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:17.267201+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01KZMYSKDX0Y4Y0B0Z3619V4AW",
+      "url": "https://fleamarket.naver.com/market-products/01KZMYSKDX0Y4Y0B0Z3619V4AW",
+      "title": "Apple 에어팟 프로 3세대 MFHP4KH/A USB-C 노이즈캔슬링 화이트",
+      "price": 260000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": "* 풀박스 구성\n* 본체 / 양쪽 유닛 정상 작동\n* 충전 및 페어링 정상\n* 전체적으로 깔끔한 상태입니다. \n* 구성 및 상태는 사진 참고 부탁드립니다.\n\n직접 확인 후 구매하셔도 됩니다.\n중고제품 특성상 사진으로 상태 충분히 확인 후 연락 부탁드립니다.\n\n쿨거래 우선이며, 구매하실 분만 편하게 연락 주세요!\n\n참고로 현재 애플 공식 판매가는 369,000원\n❗️요즘 에어팟 관련 사기 매물 많습니다. 너무 싼 매물 찾다가 피해보지 마시고, 정상 제품 안전하게 구매하세요 :) 직접 확인  가능합니다!❗️",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTBfMTQ1/MDAxNzg2MzM1OTczMDkx.-xdj8o09tIjpMBPMDpCypOzz8oHN5kdxDF-qf-T-1ngg.o8ZuL2augyz9UIztUuK3hqsaEIxG3jHQxFveyl5dE08g.PNG/local_image_E62A207C-1FB0-4762-AA9B-86C8A00A9686_L0_001_-_%ED%8E%B8%EC%A7%91%ED%95%A8.png",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTBfMjI5/MDAxNzg2MzM1OTc4NzA2.MJSWr_wxcsdyTbyY9G14sb_PZA_822x65BRTllZxYZIg.YcyTZoyOJDs-QFe93ikM_mKnQbOuYXzBqzxyke-lTh8g.PNG/c3c7d88e-1e0a-45b6-878d-f3e016e78623.png",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTBfMTAz/MDAxNzg2MzM1OTc5NTU3.fCYTTkyAo3m1oH0pqbFSBbUJoxWO8Qhonxj-WuExHtgg.NsmxM8t5y3Pqw9kxQlNFmWMd5NMB2L5JYXQHBEB9XS4g.PNG/b4be735d-f181-44ff-90c0-e407b5393654.png",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTBfMjIz/MDAxNzg2MzM1OTgxNTIz.SrukWCTLruU_Wu0Zy6Fcnw_yDyz_M3QiPGm5t8EbYn0g.ydORxbx_jsT0b_7fqq7_TicTLrBGt5nzECtpgIMYzysg.PNG/84109077-26e9-4d9e-b37e-50e865318f49.png"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "ALMOST_NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 0,
+            "remoteDeliveryFee": 5000,
+            "payerType": "SELLER"
+          }
+        ]
+      },
+      "location": {
+        "name": "신음동",
+        "full_address": "경상북도 김천시 신음동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "신음동",
+            "full_address": "경상북도 김천시 신음동",
+            "code": "04150108"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:17.267201+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9006884583",
+      "url": "https://www.11st.co.kr/products/9006884583",
+      "title": "에어팟 프로 3 세대 MFHP4KH/A e",
+      "price": 275000,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/product/9006884583/B.webp?805827251"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 15000,
+        "home_delivery_fee": 15000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 15000,
+            "remote_fee": 5000,
+            "raw_code": "15,000원"
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "15,000원",
+          "extraCost": "제주지역 5,000원, 도서산간지역 5,000원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:20.116611+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "8969808412",
+      "url": "https://www.11st.co.kr/products/8969808412",
+      "title": "애플 에어팟 프로 3 무선 이어버드 액티브 노이즈 캔슬레이션 실시간 번역 심박수 센싱 보청",
+      "price": 470400,
+      "price_range": null,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/1000x1000/quality/75/11src/product/8969808412/B.webp?1487805"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": 3000,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "deliveryDescription": "무료",
+          "extraCost": "제주지역 5,000원, 도서산간지역 3,000원"
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T17:11:20.116611+00:00"
+    }
+  ]
+}

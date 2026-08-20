@@ -1,0 +1,673 @@
+{
+  "query": "닌텐도 스위치 OLED",
+  "generatedAt": "2026-08-20T03:17:47.918320+00:00",
+  "sourceCounts": {
+    "BUNJANG": 3,
+    "JOONGNA": 3,
+    "NAVER_FLEAMARKET": 3,
+    "ELEVENST": 3
+  },
+  "count": 12,
+  "items": [
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424888351",
+      "url": "https://m.bunjang.co.kr/products/424888351",
+      "title": "닌텐도스위치OLED(SD카드512GB/프로콘) 박스세트",
+      "price": 360000,
+      "currency": "KRW",
+      "description": "닌텐도스위치 OLED 박스세트(본체 보호필름 부착O)\n닌텐도스위치 프로 컨트롤러 박스세트\n삼성512GB EVO plus MicroSD카드(본체삽입)\n스위치 OLED 추가 보호필름\n조이트론 스위치 휴대용케이스\n-------------------------------------------\n스위치OLED와 프로콘은 구매당시 박스내용물 그대로이며 사놓고 별로 사용하지않아서 상태 좋습니다. SD카드는 본체에 삽입되어있고 포맷상태입니다.  본체는 초기화 상태로 전원켜시고 최초설정하시면 됩니다. 프로콘도 최초에는 본체 독에 유선 연결후 인식시키면 됩니다. 모두 정상 작동 확인후 포장하였습니다.\n개별판매는 하지않고 한번에 전부 구매하실분 원합니다.\n제가 지방에 거주해서 직거래는 하지않고 우체국 택배로 보내드립니다. 긴글 읽어주셔서 감사합니다.",
+      "images": [
+        "https://media.bunjang.co.kr/product/424888351_1_1787190116_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424888351_2_1787190116_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424888351_3_1787190116_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424888351_4_1787190116_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424888351_5_1787190116_w1200.jpg"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "LIKE_NEW",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": {
+          "freeShipping": true
+        }
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:30.165942+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "423774878",
+      "url": "https://m.bunjang.co.kr/products/423774878",
+      "title": "닌텐도 스위치 OLED 스플래툰 에디션( 상급)  + 파우치가방",
+      "price": 268000,
+      "currency": "KRW",
+      "description": "닌텐도 스위치 OLED 스플래툰 에디션 입니다\n\n작동이상 없고 \n구성과 상태는 사진과 같은 \n풀박스 구성으로 상급입니다 \n\n냥발끼워져 있고 \n액정보호필름은 부착되어 있으며 \n파우치가방 같이드립니다 \n\n직거래 고양시 화정에서 가능하고\n일반택배 5,000원 별도입니다",
+      "images": [
+        "https://media.bunjang.co.kr/product/423774878_1_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_2_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_3_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_4_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_5_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_6_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_7_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_8_1787122581_w1200.jpg",
+        "https://media.bunjang.co.kr/product/423774878_9_1787122581_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 5000,
+        "home_delivery_fee": 5000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 5000
+          }
+        }
+      },
+      "location": {
+        "name": "경기도 고양시 덕양구 화정1동",
+        "full_address": "경기도 고양시 덕양구 화정1동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "경기도 고양시 덕양구 화정1동",
+            "full_address": "경기도 고양시 덕양구 화정1동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:30.165942+00:00"
+    },
+    {
+      "platform": "BUNJANG",
+      "platform_product_id": "424905218",
+      "url": "https://m.bunjang.co.kr/products/424905218",
+      "title": "닌텐도 스위치 oled 스플래툰 에디션 울산 직거래 가능",
+      "price": 270000,
+      "currency": "KRW",
+      "description": "화면 흠집 아날로고 쏠림 없음\n\n정상 작동합니다.\n\n울산 중구 직거래 가능",
+      "images": [
+        "https://media.bunjang.co.kr/product/424905218_1_1787191004_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424905218_2_1787191004_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424905218_3_1787191004_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424905218_4_1787191004_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424905218_5_1787191004_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424905218_6_1787191004_w1200.jpg",
+        "https://media.bunjang.co.kr/product/424905218_7_1787191004_w1200.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "LIGHTLY_USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 4000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": "DEFAULT"
+          }
+        ],
+        "raw": {
+          "DEFAULT": {
+            "fee": 4000
+          }
+        }
+      },
+      "location": {
+        "name": "울산광역시 중구 중앙동",
+        "full_address": "울산광역시 중구 중앙동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "울산광역시 중구 중앙동",
+            "full_address": "울산광역시 중구 중앙동",
+            "code": null
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:30.165942+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231232826",
+      "url": "https://web.joongna.com/product/231232826",
+      "title": "닌텐도 스위치 oled + 조이트론 미니독",
+      "price": 250000,
+      "currency": "KRW",
+      "description": "24년에 구매한 닌텐도 스위치 oled입니다. 주로 독에 끼우고 다른 패드로 사용해서 조이스틱 사용감 덜합니다. 전체 구성품 다 있습니다. 조이트론 미니독까지 같이 드립니다.  25만에 판매합니다.",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/03/1785761977890j2a_ZZohD.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/03/1785761978002X9u_SmDcL.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/03/1785761978060pMP_x5z5V.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/03/1785761978130UST_INrfh.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/03/1785761978199AJM_bEeVX.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787192578968GXx_iouPM.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/20/1787192579077hCS_6wUCz.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2000,
+        "home_delivery_fee": 5000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 5000,
+            "remote_fee": null,
+            "raw_code": 0
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "CU",
+            "requires_pickup_point": true,
+            "fee": 2000,
+            "remote_fee": null,
+            "raw_code": 1
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 5000
+          },
+          {
+            "deliveryType": 1,
+            "deliveryPrice": 2000
+          }
+        ]
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:34.363176+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231487635",
+      "url": "https://web.joongna.com/product/231487635",
+      "title": "닌텐도 스위치 OLED 네온 풀박스",
+      "price": 250000,
+      "currency": "KRW",
+      "description": "닌텐도 스위치 OLED 네온 색상 판매합니다  사진에 보이는 구성품 모두 포함되어 있습니다  사용감있으나 깨끗한 편이에요  중고입니다 예민하신분은 패스해주세요  쏠림이나 기능이상 전혀없어요  구성품은 박스, 본체, 독, 충전기, 케이블, 스트랩, 그립이에요  안전거래 환영  반택은 씨유만 가능",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/12/178653003778541x_yYlPt.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/12/1786530037894rUO_JwQR8.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/12/178653003801557m_G7Bbw.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/12/1786530038126hZY_2KjeU.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/12/1786530038240gs3_Qq9gb.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/12/1786530038411A3u_0R5To.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": 0
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "CU",
+            "requires_pickup_point": true,
+            "fee": 2000,
+            "remote_fee": null,
+            "raw_code": 1
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 4000
+          },
+          {
+            "deliveryType": 1,
+            "deliveryPrice": 2000
+          }
+        ]
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:34.363176+00:00"
+    },
+    {
+      "platform": "JOONGNA",
+      "platform_product_id": "231442520",
+      "url": "https://web.joongna.com/product/231442520",
+      "title": "닌텐도 스위치 OLED 독 화이트",
+      "price": 29000,
+      "currency": "KRW",
+      "description": "닌텐도 스위치 OLED용 독 화이트 색상입니다  깨끗한 편입니다 고장나거나 분실하신 분께 추천합니다  안전거래환영 반택은 씨유만가능",
+      "images": [
+        "https://img2.joongna.com/media/original/2026/08/18/1787034514559msc_A9SOf.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/18/17870344935560Dg_wJUSh.jpg?impolicy=resize&format=webp",
+        "https://img2.joongna.com/media/original/2026/08/18/1787034493646A1Y_NS8MA.jpg?impolicy=resize&format=webp"
+      ],
+      "condition_level": "USED",
+      "condition_raw": "2",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 2000,
+        "home_delivery_fee": 4000,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 4000,
+            "remote_fee": null,
+            "raw_code": 0
+          },
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": "CU",
+            "requires_pickup_point": true,
+            "fee": 2000,
+            "remote_fee": null,
+            "raw_code": 1
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": 0,
+            "deliveryPrice": 4000
+          },
+          {
+            "deliveryType": 1,
+            "deliveryPrice": 2000
+          }
+        ]
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:34.363176+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01M0ARCFX09W6Y264F729Z4VMY",
+      "url": "https://fleamarket.naver.com/market-products/01M0ARCFX09W6Y264F729Z4VMY",
+      "title": "[A급/풀박스] 닌텐도 스위치 OLED 화이트",
+      "price": 290000,
+      "currency": "KRW",
+      "description": "예전에 젤다랑 포켓몬 할 목적으로 구매 했는데, 일로 바쁘다보니 게임 할 시간이 없어 거의 방치해둔 물건입니다. \n\n상태는 사진에 보시다시피 전체적으로 깔끔합니다. 가장 중요한 본체 액정의 경우 구매 직후 보호필름 붙혀놨기에 기스 하나 없으며, 나머지 부품들도 사용 횟수가 적다보니 눈에 띄는 하자나 파손 등은 일절 없습니다. \n\n배터리 드레인이나 조이콘 쏠림 등의 고질적인 문제도 없는 것 확인 완료하였으니 안심하고 구매하셔도 됩니다. \n\n구성은 풀박스 + 사제 파우치 및 보호 필름입니다. 사진 여러 각도로 올려놓았으나 필요하신 경우 더 찍어 보내드릴 수 있으니 궁금하신 점 편하게 문의 주세요. \n\n수원 CU 영통하우스토리점 앞에서 직거래 가능하며, 택배 거래 시 배송비 추가됩니다. \n\n\n✅️ 직거래 희망하실 경우 챗 주시고, 안심결제 희망하실 경우 특별한 문의사항 없으시면 바로 결제해주시면 됩니다. \n\n🚫 마일리지 운운 하며 가짜 중고거래 사이트로 유도하는 사기 안 통합니다. 사기꾼 분들은 서로 시간 낭비 없도록 연락 자제 부탁드립니다.",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjA4/MDAxNzg3MDY3NDgwNzU4.xeZ_SGj31OjEGEN-Smhsj5zTGuHDP7BjE1FnPFzuqKIg.-uovYl1EaUhBXcZF9LgQGpZEMSSXEIs_szW5HiwXVG0g.JPEG/1000265320.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfOTkg/MDAxNzg3MDY3NDgyNjEy.VuXoDc0m3MM8EFzOJaL9sxN54FGxBmbdnSaLoL6rQxMg.3wTVcfmCDnbgXRkiKJhBNNfkGxOncEtLn76TiN4_Cogg.JPEG/1000265321.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjEw/MDAxNzg3MDY3NDgzODA3.ARAfDGMuudoTc_Ynis84FEPs0RlejWz9gLokRTkX-2kg.4fMGHlzstpTP0QtmjBdMTLx0y4mSfIWVfZniWcgAdDQg.JPEG/1000265324.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfODAg/MDAxNzg3MDY3NDg0OTcw.Gk_IZ7hCA0aNq89KuQJt-pzbwujPpjpw97k51S7f1xMg.W4ZhohE6WBWCDYnCrPHAj-4v7xyqW3GT2Uu5uFljoHog.JPEG/1000265326.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMTgw/MDAxNzg3MDY3NDg2MTE4.3-aP0yoqEOGJaoaqkzPLX3mugrh4tLDdRaXgSnZIc3Mg.-LW9MremyToV-9nkoCNYBxQejCNxoX822tEvXDUgL8wg.JPEG/1000265327.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjE1/MDAxNzg3MDY3NDg3NDMz.R2CmQ4xfSLs90D5heC_prvs39f6_8nE6fhgF1E4ANNwg.WV6i3PtBnwgkkKG3Ap29D3_pkbHGVAEx0C6WXTOi5QAg.JPEG/1000265329.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMTY0/MDAxNzg3MDY3NDg4NTc4.7NszIDCm3E9P5RJHM5GAJuGmJUtN2akeq0OFuKs0CGMg.d-QY94yyMt3VrJLPro15VZE9imEtm_6wG5wSkiLaTW0g.JPEG/1000265330.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfMjEw/MDAxNzg3MDY3NDg5ODE2.yaNQvRyVkWxa4lnbkMES2TfZqDP0eHWIUFOMYtOIaZUg.wGX1IvVDS1r6mncgZ84ozZDrB0BeNhQ6BdA5IOr_f60g.JPEG/1000265323.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MTlfNjkg/MDAxNzg3MDY3NDkwODc2.qqNLiexctAa939Y0QvovY8fluvnBkzuHt3HKeq6KUjwg.cHz-xonWtzdTTDnFD9b26hUzpA1Spf7ZxU-u-ILK9uQg.JPEG/1000265332.jpg"
+      ],
+      "condition_level": "LIKE_NEW",
+      "condition_raw": "ALMOST_NEW",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "영통동",
+        "full_address": "경기도 수원시 영통구 영통동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "영통동",
+            "full_address": "경기도 수원시 영통구 영통동",
+            "code": "02117105"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:43.468517+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01KYYG4ZM548F0THR5EGVRZ0WV",
+      "url": "https://fleamarket.naver.com/market-products/01KYYG4ZM548F0THR5EGVRZ0WV",
+      "title": "닌텐도 스위치 OLED",
+      "price": 240000,
+      "currency": "KRW",
+      "description": "스위치1을 사용하다 스위치2로 넘어간김에 판매하려고 합니다 구매당시 언박싱실수로 정품박스훼손된것제외하고는 모든부품 정상입니다 관심있으신분들 연락주세요",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MDFfMjgg/MDAxNzg1NTgyMTg3MTQ2.cCZkdbR_9ZjEkai7SEUF-tKjp42X-0KO11RHM4m90yYg.wxaXXf_lIxjIhRrVQSqh3QbHUQnpQMRPDJhZClJHJwcg.JPEG/1785582147434.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MDFfMTIw/MDAxNzg1NTgyMjgwMjUw.PbzHP2jRQkEpMEB79fpY-950asrAHEjSW_iA_bnCIZcg.muDzGAZZRRbycNgYmip7Ukp1OYMBwsk5r3Bk5UaEX0wg.JPEG/1785582190762.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MDFfMjk3/MDAxNzg1NTgyMzA2ODU2.TUIIj9GluO6TILFYfGAokAE5BbsehifWV-siCzwnfX4g._fD8ma8bJiUsYw9JG4s-8O1R6T1MB-73G_r-h1TPqdUg.JPEG/1785582282440.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MDFfMjgg/MDAxNzg1NTgyMzU0MDU3.x498VZTKDtEgaKJt_tFJYU3QXGJ61uMcdCv0nHuimHAg.d880idM1c3ocPLzFmgVR8lkNh4YbZJ2i31E8YTg6-O8g.JPEG/1785582308297.jpg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA4MDFfMjkz/MDAxNzg1NTgyMzc2NzIz.Wbct7wWZ_9KvOEmgEqfv8ZjGoZDLdKMBMQ0kXohrnjYg.T3EHDsXbsPaEFMwQOsqX19LdH4unQ9vzda29d6fLjXIg.JPEG/1785582357171.jpg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "NOT_AVAILABLE",
+        "payer": null,
+        "min_fee": null,
+        "home_delivery_fee": null,
+        "options": [],
+        "raw": null
+      },
+      "location": {
+        "name": "석수동",
+        "full_address": "경기도 안양시 만안구 석수동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "석수동",
+            "full_address": "경기도 안양시 만안구 석수동",
+            "code": "02171102"
+          },
+          {
+            "name": "안양동",
+            "full_address": "경기도 안양시 만안구 안양동",
+            "code": "02171101"
+          },
+          {
+            "name": "박달동",
+            "full_address": "경기도 안양시 만안구 박달동",
+            "code": "02171103"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:43.468517+00:00"
+    },
+    {
+      "platform": "NAVER_FLEAMARKET",
+      "platform_product_id": "01KXTR8YRVKTGTNJ0VYA0ERJS9",
+      "url": "https://fleamarket.naver.com/market-products/01KXTR8YRVKTGTNJ0VYA0ERJS9",
+      "title": "닌텐도 스위치 OLED 풀박스 팝니다",
+      "price": 240000,
+      "currency": "KRW",
+      "description": "닌텐도 스위치 OLED 모델 풀박스 구성품 모두 있어요\n사진에서 보시는 것처럼 본체, 조이콘, 독, 충전기, 케이블 등 모두 포함되어 있습니다\n무하자이며, 깨진 곳 한 곳도 없습니다.\n가족, 친구와 함께 즐거운 시간을 보내고 싶으신 분들께 추천드려요\n정상 작동 제품이며, 풀 충전 후 드립니다.\nHDMI 케이블 챙겨드려요~~\n연락주세요~!",
+      "images": [
+        "https://nflea-phinf.pstatic.net/MjAyNjA3MThfMjY2/MDAxNzg0MzgyOTY4NzUy.kutxqsYRhn_m3_zK-MTYCRyzrp_OuYSxV0aDXOpkV94g.ODii6_46e0kcyrACKiz_8pG44HkWKaIH0rhpoO7iVKUg.JPEG/IMG_2803.jpeg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA3MThfNDgg/MDAxNzg0MzgyOTcwMjcw.xVVa_l7V6sYFB4iMQ_MZUB5Y2fqo2X0xBQK1d6yIiW0g.6WhuJtszhbm7ofXDbXnGUura5nfk46VbNLsfUjBi4tkg.JPEG/IMG_2804.jpeg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA3MThfMjA1/MDAxNzg0MzgyOTcyMjYx.Ju1Sqy__azCo5dMxdzqhh2K2DImrM-vDfOtasBZSgEQg.L4d17aUDxEa1ln8T4sdGuogJXkclpyR23EFmercx_eYg.JPEG/IMG_2805.jpeg",
+        "https://nflea-phinf.pstatic.net/MjAyNjA3MThfMTIw/MDAxNzg0MzgyOTc0NDAz.NP_MHOH3epTf88QfIFezYuxC9Gs7le8vUEXKnFz-DbUg.AVwYh8r4F83EQSlrNpgkX7P7qRr7J-erEI_Ov3tnKy4g.JPEG/IMG_2806.jpeg"
+      ],
+      "condition_level": "LIGHTLY_USED",
+      "condition_raw": "USED",
+      "trade_method": [
+        "PARCEL",
+        "MEET"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3600,
+        "home_delivery_fee": null,
+        "options": [
+          {
+            "method": "CONVENIENCE_STORE",
+            "carrier": null,
+            "requires_pickup_point": true,
+            "fee": 3600,
+            "remote_fee": 5000,
+            "raw_code": "PICKUP_DELIVERY"
+          }
+        ],
+        "raw": [
+          {
+            "deliveryType": "PICKUP_DELIVERY",
+            "deliveryFee": 3600,
+            "remoteDeliveryFee": 5000,
+            "payerType": "BUYER"
+          }
+        ]
+      },
+      "location": {
+        "name": "용원동",
+        "full_address": "경상남도 창원시 진해구 용원동",
+        "precision": "FULL",
+        "regions": [
+          {
+            "name": "용원동",
+            "full_address": "경상남도 창원시 진해구 용원동",
+            "code": "03129164"
+          }
+        ],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:43.468517+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9565621463",
+      "url": "https://www.11st.co.kr/products/9565621463",
+      "title": "닌텐도 스위치 OLED 전용 필름",
+      "price": 1920,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/792x792/quality/75/11src/pd/v2/6/2/1/4/6/3/Ulort/9565621463_B.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "BUYER",
+        "min_fee": 3500,
+        "home_delivery_fee": 3500,
+        "options": [
+          {
+            "method": "STANDARD",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 3500,
+            "remote_fee": null,
+            "raw_code": "3,500원"
+          }
+        ],
+        "raw": "3,500원"
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:47.864579+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9565659085",
+      "url": "https://www.11st.co.kr/products/9565659085",
+      "title": "닌텐도 호환 스위치 OLED NS용 2피스 조이콘 호환 휠 레이싱 게임 휠 컨트롤러",
+      "price": 15000,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/792x792/quality/75/11src/pd/v2/6/5/9/0/8/5/LwtGC/9565659085_B.jpg"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": "무료"
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:47.864579+00:00"
+    },
+    {
+      "platform": "ELEVENST",
+      "platform_product_id": "9565133687",
+      "url": "https://www.11st.co.kr/products/9565133687",
+      "title": "닌텐도 스위치 2 1 OLED 스팀 덱 PS4 Xbox USB3.0 1080P 60FPS 스트리밍 4K@30Hz HDMI 패스스루 플러그 앤",
+      "price": 105770,
+      "currency": "KRW",
+      "description": null,
+      "images": [
+        "https://cdn.011st.com/11dims/resize/792x792/quality/75/11src/pd/v2/1/3/3/6/8/7/KfRdK/9565133687_B.webp"
+      ],
+      "condition_level": "NEW",
+      "condition_raw": "새상품",
+      "trade_method": [
+        "PARCEL"
+      ],
+      "delivery_fee": {
+        "status": "AVAILABLE",
+        "payer": "SELLER",
+        "min_fee": 0,
+        "home_delivery_fee": 0,
+        "options": [
+          {
+            "method": "FREE",
+            "carrier": null,
+            "requires_pickup_point": false,
+            "fee": 0,
+            "remote_fee": null,
+            "raw_code": null
+          }
+        ],
+        "raw": "무료"
+      },
+      "location": {
+        "name": null,
+        "full_address": null,
+        "precision": "NONE",
+        "regions": [],
+        "coordinates": null
+      },
+      "collected_at": "2026-08-20T03:17:47.864579+00:00"
+    }
+  ]
+}
