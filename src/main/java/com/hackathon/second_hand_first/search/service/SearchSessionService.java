@@ -15,6 +15,7 @@ import com.hackathon.second_hand_first.search.dto.response.RecentSearchSessionRe
 import com.hackathon.second_hand_first.search.dto.response.SearchResultItemResponse;
 import com.hackathon.second_hand_first.search.dto.response.SearchSessionCreateResponse;
 import com.hackathon.second_hand_first.search.dto.response.SearchSessionPageResponse;
+import com.hackathon.second_hand_first.search.dto.response.SearchSessionResultsResponse;
 import com.hackathon.second_hand_first.search.dto.response.SearchSessionDetailResponse;
 import com.hackathon.second_hand_first.search.exception.SearchSessionNotFoundException;
 import com.hackathon.second_hand_first.search.integration.ai.dto.AiParsedConditionsResponse;
@@ -143,6 +144,81 @@ public class SearchSessionService {
         List<SearchMessage> messages = searchMessageRepository
                 .findBySearchSessionIdOrderByCreatedAtAscIdAsc(session.getId());
         return SearchSessionDetailResponse.of(session, messages);
+    }
+
+    /**
+     * 지난 검색의 결과를 다시 꺼낸다.
+     *
+     * <p>검색을 실행한 순간의 결과는 {@code search_results} 에 남아 있는데 꺼낼 길이
+     * 없었다. 그래서 <b>새로고침하거나 뒤로 가면 목록이 사라졌다.</b>
+     *
+     * <p>탄소 절감량은 저장하지 않아 여기서 다시 계산한다. 전자기기는 내장 계수라
+     * 즉시 나오고, 그 밖은 Climatiq 를 부르지만 결과를 캐시하므로 같은 상품을 여러 번
+     * 열어도 한 번만 부른다.
+     */
+    @Transactional(readOnly = true)
+    public SearchSessionResultsResponse getResults(Long userId, String sessionId) {
+        SearchSession session = searchSessionRepository
+                .findBySessionIdAndUserId(sessionId, userId)
+                .orElseThrow(SearchSessionNotFoundException::new);
+
+        List<SearchResultItemResponse> recommendations = searchResultRepository
+                .findBySearchSessionSessionIdOrderByRankAsc(sessionId)
+                .stream()
+                .map(this::toResultItem)
+                .toList();
+
+        return SearchSessionResultsResponse.of(
+                session, assistantMessageOf(session, recommendations.size()), recommendations
+        );
+    }
+
+    private SearchResultItemResponse toResultItem(SearchResult result) {
+        Product product = result.getProduct();
+        CarbonSavingResult carbonSaving = carbonSavingService.calculate(
+                product.getTitle(),
+                product.getCategory(),
+                product.getPrice(),
+                product.getPlatform(),
+                product.getCondition()
+        );
+        return new SearchResultItemResponse(
+                product.getId() != null ? product.getId().toString() : null,
+                result.getRank(),
+                product.getPlatform(),
+                product.getTitle(),
+                product.getPrice(),
+                firstImageUrl(product),
+                result.getRecommendationScore(),
+                result.getRecommendationReason(),
+                carbonSaving
+        );
+    }
+
+    /**
+     * 대화 기록에 남은 어시스턴트 문구를 그대로 쓴다.
+     *
+     * <p>«번개장터·중고나라에서 13개 매물을 찾았어요» 같은 문장은 검색 당시 AI 가 만든
+     * 것이다. 여기서 새로 만들면 <b>같은 세션인데 문구가 달라진다.</b> 기록이 없을 때만
+     * 최소한의 문장을 만든다.
+     */
+    private String assistantMessageOf(SearchSession session, int resultCount) {
+        return searchMessageRepository
+                .findBySearchSessionIdOrderByCreatedAtAscIdAsc(session.getId())
+                .stream()
+                .map(SearchMessage::getContent)
+                .filter(content -> content != null && !content.isBlank())
+                .reduce((first, second) -> second)
+                .orElseGet(() -> resultCount == 0
+                        ? "조건에 맞는 매물을 찾지 못했어요."
+                        : "%d개 매물을 찾았어요.".formatted(resultCount));
+    }
+
+    /** 대표 이미지. 없으면 null 이다 — 빈 문자열은 «이미지가 있는데 비었다»로 읽힌다. */
+    private String firstImageUrl(Product product) {
+        return product.getImages() == null || product.getImages().isEmpty()
+                ? null
+                : product.getImages().getFirst().getImageUrl();
     }
 
     private void validatePageRequest(int page, int size) {
