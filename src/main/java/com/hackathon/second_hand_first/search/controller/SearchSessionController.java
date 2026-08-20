@@ -5,6 +5,7 @@ import com.hackathon.second_hand_first.common.response.ApiResponse;
 import com.hackathon.second_hand_first.search.dto.request.SearchSessionCreateRequest;
 import com.hackathon.second_hand_first.search.dto.response.SearchSessionCreateResponse;
 import com.hackathon.second_hand_first.search.dto.response.SearchSessionPageResponse;
+import com.hackathon.second_hand_first.search.dto.response.SearchSessionResultsResponse;
 import com.hackathon.second_hand_first.search.dto.response.SearchSessionDetailResponse;
 import com.hackathon.second_hand_first.search.service.SearchSessionService;
 import jakarta.validation.Valid;
@@ -37,6 +38,24 @@ public class SearchSessionController {
         return ResponseEntity.status(HttpStatus.CREATED).body(
                 ApiResponse.success("AI 검색을 완료했습니다.", response)
         );
+    }
+
+    /**
+     * 지난 검색의 결과를 다시 꺼낸다.
+     *
+     * <p>응답 형태가 검색 실행 응답과 같다. 프론트가 같은 파싱을 재사용할 수 있게
+     * 일부러 맞췄다.
+     */
+    @GetMapping("/search-sessions/{sessionId}/results")
+    public ResponseEntity<ApiResponse<SearchSessionResultsResponse>> getSearchResults(
+            @AuthenticationPrincipal CustomUserDetails userDetails,
+            @PathVariable String sessionId
+    ) {
+        SearchSessionResultsResponse response = searchSessionService.getResults(
+                userDetails.getUserId(),
+                sessionId
+        );
+        return ResponseEntity.ok(ApiResponse.success("검색 결과를 조회했습니다.", response));
     }
 
     @GetMapping("/users/me/search-sessions")
