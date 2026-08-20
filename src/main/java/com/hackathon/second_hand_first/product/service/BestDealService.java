@@ -131,10 +131,7 @@ public class BestDealService {
     }
 
     private ProductCategory displayCategory(ProductCategory category) {
-        return switch (category) {
-            case EARPHONES, LAPTOP, SMARTPHONE, SMARTWATCH -> category;
-            default -> ProductCategory.OTHER;
-        };
+        return category;
     }
 
     private ProductCategory parseCategory(String category) {
