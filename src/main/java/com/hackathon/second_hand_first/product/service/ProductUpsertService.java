@@ -63,6 +63,16 @@ public class ProductUpsertService {
                         refreshedAt
                 ));
 
+        // AI 통합 스키마가 제공하지 않는 메타데이터는 null로 내려온다. 이미 DB에 있는
+        // 조회수와 게시 시각을 null로 덮으면 정보가 사라지고, 이전 스키마의 NOT NULL
+        // 제약에도 걸릴 수 있으므로 기존 값을 보존한다.
+        Long externalViewCount = source.externalViewCount() == null
+                ? product.getExternalViewCount()
+                : source.externalViewCount();
+        LocalDateTime effectivePublishedAt = publishedAt == null
+                ? product.getPublishedAt()
+                : publishedAt;
+
         product.refresh(
                 source.title(),
                 source.description(),
@@ -79,8 +89,8 @@ public class ProductUpsertService {
                 toDeliveryFee(source.deliveryFee()),
                 isCarbonReductionEligible(source.platform(), source.condition()),
                 source.platformUrl(),
-                source.externalViewCount(),
-                publishedAt,
+                externalViewCount,
+                effectivePublishedAt,
                 refreshedAt
         );
         updateCoordinates(product, source.location());
