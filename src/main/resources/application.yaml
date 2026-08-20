@@ -15,6 +15,9 @@ spring:
     open-in-view: false
 
 app:
+  # AI 서버가 백엔드 내부 상품 검색 API를 호출할 때 쓰는 선택적 공유 키.
+  # 비어 있으면 로컬 개발을 위해 검사를 생략한다.
+  internal-api-key: ${BACKEND_API_KEY:}
   auth:
     jwt-secret: ${JWT_SECRET:second-hand-first-local-secret-key-change-me}
     access-token-seconds: 3600

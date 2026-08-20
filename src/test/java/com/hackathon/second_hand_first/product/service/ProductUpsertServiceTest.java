@@ -91,6 +91,21 @@ class ProductUpsertServiceTest {
     }
 
     @Test
+    void AI가_모르는_조회수와_게시시각은_기존값을_보존한다() {
+        Product existing = ProductFixture.airPodsPro2();
+        AiProductResponse response = withoutOptionalMetadata(
+                aiProduct("mock_1", 160_000L, List.of("https://cdn.example.com/updated.jpg"))
+        );
+        when(productRepository.findByPlatformAndExternalProductId(Platform.NAVER_FLEAMARKET, "mock_1"))
+                .thenReturn(Optional.of(existing));
+
+        Product saved = productUpsertService.upsert(response);
+
+        assertThat(saved.getExternalViewCount()).isEqualTo(128L);
+        assertThat(saved.getPublishedAt()).isEqualTo(ProductFixture.PUBLISHED_AT);
+    }
+
+    @Test
     void AI_배송비와_배송옵션을_상품에_저장한다() throws Exception {
         AiProductResponse response = deliveryProduct();
         when(productRepository.findByPlatformAndExternalProductId(Platform.BUNJANG, "delivery_1"))
@@ -177,6 +192,27 @@ class ProductUpsertServiceTest {
                 OffsetDateTime.parse("2026-08-20T09:00:00+09:00"),
                 imageUrls,
                 new AiSellerResponse("seller_1", "판교 판매자", 92, 32, 48.5)
+        );
+    }
+
+    private AiProductResponse withoutOptionalMetadata(AiProductResponse source) {
+        return new AiProductResponse(
+                source.platform(),
+                source.externalProductId(),
+                source.title(),
+                source.description(),
+                source.category(),
+                source.price(),
+                source.condition(),
+                source.status(),
+                source.location(),
+                source.tradeTypes(),
+                source.deliveryFee(),
+                source.platformUrl(),
+                null,
+                null,
+                source.imageUrls(),
+                source.seller()
         );
     }
 }
